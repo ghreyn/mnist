@@ -20,7 +20,7 @@ from keras_diagram import ascii
 VAL_SIZE = 0.20
 NUM_EPOCHS = 200
 LEARNING_RATE = 0.0001
-BATCH_SIZE = 32
+BATCH_SIZE = 128
 SEED=100
 logfile ="kresults.txt"
 
